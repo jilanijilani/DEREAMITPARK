@@ -1,0 +1,17 @@
+img{
+width: 700px;
+height: 700px;
+}
+h4 {margin-left: 46pc;margin-top: -36pc;}
+
+@media screen (max-width:990px;) {
+    img.woman {
+        width: 100%;
+    }
+    
+    h4 {
+        position: absolute;
+        left: -45pc;
+        top: 82pc;
+    }
+}
